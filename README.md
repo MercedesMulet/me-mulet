@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @me-mulet
-- 👀 I’m interested in Visual Design
+- 👋 Hi, I’m @MercedesMulet
+- 👀 I’m interested in UX Design and Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me: mercedes.mulet@gmail.com
